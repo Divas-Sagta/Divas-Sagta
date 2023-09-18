@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning : **NextJS**
 
-- 🧑‍💻 Technical Domain : **MERN Stack & Data Science** 
+- 🧑‍💻 Technical Experties : **MERN Stack and Data Science** 
 
 - 📩 Feel free to reach out me : **divassagta19@gmail.com**
 
