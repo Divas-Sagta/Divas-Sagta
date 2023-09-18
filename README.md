@@ -1,4 +1,4 @@
-[![MasterHead](https://kinsta.com/wp-content/uploads/2021/11/what-is-a-full-stack-developer-1024x512.png)](https://divas-sagta.io)
+[![MasterHead](https://www.pcilearning.com/wp-content/uploads/2019/12/full_stack_web_2.jpg)](https://divas-sagta.io)
 <h1 align="center">Hi 👋, I'm Divas Sagta</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.thoughtwin.com/assets/img/mernstack-img.gif">
