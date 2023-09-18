@@ -1,6 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://divas-sagta.io)
 <h1 align="center">Hi 👋, I'm Divas Sagta</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+
+<!-- <h3 align="center">A Full Stack Developer from India</h3> -->
+
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1002&color=2D5EF7&background=D054FF00&center=true&vCenter=true&width=435&lines=A+Full+Stack+Developer+;Data+Science+Enthusiast;Hustling+and+Learning" alt="Typing SVG" /></h1>
+
 <img align="right" alt="Coding" width="400" src="https://www.thoughtwin.com/assets/img/mernstack-img.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divas-sagta&label=Profile%20views&color=0e75b6&style=flat" alt="divas-sagta" /> </p>
