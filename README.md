@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pcilearning.com/wp-content/uploads/2019/12/full_stack_web_2.jpg)](https://divas-sagta.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)](https://divas-sagta.io)
 <h1 align="center">Hi 👋, I'm Divas Sagta</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.thoughtwin.com/assets/img/mernstack-img.gif">
