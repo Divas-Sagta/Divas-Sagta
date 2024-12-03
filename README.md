@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divas-sagta&label=Profile%20views&color=0e75b6&style=flat" alt="divas-sagta" /> </p>
 
-- 🌱 I’m currently learning : **NextJS**
+- 🌱 I’m currently learning : **DevOps**
 
 - 🧑‍💻 Technical Experties : **MERN Stack and Data Science** 
 
